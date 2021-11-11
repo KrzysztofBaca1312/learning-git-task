@@ -10,3 +10,4 @@ for key in shoping_list:
 sum_list=sum(len(value) for value in shoping_list.values())
 
 print('w sumie kupuję',sum_list,'produktów')
+print ('test')
